@@ -88,13 +88,4 @@ def current():
 
 if __name__ == '__main__':
    app.run(ip-address, debug = True)
-   
-
-    
-
-
-
-
-
-
     
